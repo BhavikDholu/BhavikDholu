@@ -11,6 +11,8 @@ engineer with a reputed firm driven by technology.</h4>
                                                                    
 - 🌱 I’m currently learning **React** 
 - 📫 How to reach me : bhavikdholu1998@gmail.com
+- Portfolio : https://bhavikdholu.github.io/
+- linkedin : https://www.linkedin.com/in/bhavik-dholu98/
 
 <!---
 BhavikDholu/BhavikDholu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

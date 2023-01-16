@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-- 🌱 I’m currently learning **MERN Technology**<br><br>- 👨‍💻 All of my projects are available at [bhavikdholu.github.io](bhavikdholu.github.io)<br><br>- 💬 Ask me about **MERN**<br><br>- 📫 How to reach me **bhavikdholu1998@gmail.com**<br><br>- 📄 Know about my experiences [https://drive.google.com/file/d/1NXdejID4ESWnBTpnrxQgJP6-9c17_777/view?usp=sharing](https://drive.google.com/file/d/1NXdejID4ESWnBTpnrxQgJP6-9c17_777/view?usp=sharing)
+- 🌱 I’m currently learning **MERN Technology**<br><br>- 👨‍💻 All of my projects are available at [https://bhavikdholu.github.io/](https://bhavikdholu.github.io/)<br><br>- 💬 Ask me about **MERN**<br><br>- 📫 How to reach me **bhavikdholu1998@gmail.com**<br><br>- 📄 Know about my experiences [https://drive.google.com/file/d/1NXdejID4ESWnBTpnrxQgJP6-9c17_777/view?usp=sharing](https://drive.google.com/file/d/1NXdejID4ESWnBTpnrxQgJP6-9c17_777/view?usp=sharing)
 
 
 ## 🌐 Socials:
